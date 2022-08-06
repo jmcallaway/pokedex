@@ -96,7 +96,7 @@ const pokemon = [
 
 // container to store DOM element with ID of "poke-container" => <div id="poke-container"></div>
 const pokeContainer = document.getElementById('poke-container');
-console.log('hi');
+console.log('hi there!');
 // 1️⃣ Given "pokemon" and "pokeContainer" above, create a function (renderPokemon) that:
 
 //  ✔️ Accepts a single "pokemon" object
